@@ -1,16 +1,27 @@
-## Hi there 👋
+# Rebeca Erdman
 
-<!--
-**rebecafloriano/rebecafloriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenheira de Software** | Lisboa, Portugal
 
-Here are some ideas to get you started:
+Desenvolvedora com foco em front-end, dedicada à construção de interfaces acessíveis, responsivas e bem estruturadas, com atenção especial à qualidade de código através de testes automatizados. Experiência complementar em back-end com Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack Principal
+
+- **Front-end:** React, TypeScript, Tailwind CSS, HTML, CSS, JavaScript
+- **Back-end:** Node.js
+- **Testes:** Vitest, React Testing Library, Playwright (E2E)
+- **Boas práticas:** acessibilidade (a11y), validação de formulários, integração contínua (GitHub Actions)
+
+## Projetos em Destaque
+
+| Projeto | Descrição |
+|---|---|
+| [form-newsletter](https://github.com/rebecafloriano/form-newsletter) | Formulário de inscrição em newsletter com React, TypeScript e Tailwind CSS. Suíte de 20 testes unitários/integração (Vitest + React Testing Library) e 15 testes E2E multi-browser (Playwright), com pipeline de CI/CD via GitHub Actions |
+| [tasks-app](https://github.com/rebecafloriano/tasks-app) | Dashboard de gerenciamento de tarefas em React e Tailwind CSS, com CRUD completo e persistência via LocalStorage |
+| [simple-card-sync](https://github.com/rebecafloriano/simple-card-sync) | Gerador de cartão de visita digital com customização e exportação instantânea |
+| [user-directory](https://github.com/rebecafloriano/user-directory) | Aplicação para gestão centralizada de nomes, e-mails e papéis de equipe |
+| [appointments](https://github.com/rebecafloriano/appointments) | Sistema de agendamentos |
+
+## Contato
+
+- Website: [rebecadev.com](https://www.rebecadev.com)
+- LinkedIn: [in/rebeca-erdman-dev](https://linkedin.com/in/rebeca-erdman-dev)
