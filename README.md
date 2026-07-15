@@ -1,27 +1,27 @@
 # Rebeca Erdman
 
-**Engenheira de Software** | Lisboa, Portugal
+**Software Engineer** | Lisbon, Portugal
 
-Desenvolvedora com foco em front-end, dedicada à construção de interfaces acessíveis, responsivas e bem estruturadas, com atenção especial à qualidade de código através de testes automatizados. Experiência complementar em back-end com Node.js.
+Front-end focused developer, dedicated to building accessible, responsive, and well-structured interfaces, with special attention to code quality through automated testing. Complementary experience in back-end with Node.js.
 
-## Stack Principal
+## Main Stack
 
 - **Front-end:** React, TypeScript, Tailwind CSS, HTML, CSS, JavaScript
 - **Back-end:** Node.js
-- **Testes:** Vitest, React Testing Library, Playwright (E2E)
-- **Boas práticas:** acessibilidade (a11y), validação de formulários, integração contínua (GitHub Actions)
+- **Testing:** Vitest, React Testing Library, Playwright (E2E)
+- **Best practices:** accessibility (a11y), form validation, continuous integration (GitHub Actions)
 
-## Projetos em Destaque
+## Featured Projects
 
-| Projeto | Descrição |
+| Project | Description |
 |---|---|
-| [form-newsletter](https://github.com/rebecafloriano/form-newsletter) | Formulário de inscrição em newsletter com React, TypeScript e Tailwind CSS. Suíte de 20 testes unitários/integração (Vitest + React Testing Library) e 15 testes E2E multi-browser (Playwright), com pipeline de CI/CD via GitHub Actions |
-| [tasks-app](https://github.com/rebecafloriano/tasks-app) | Dashboard de gerenciamento de tarefas em React e Tailwind CSS, com CRUD completo e persistência via LocalStorage |
-| [simple-card-sync](https://github.com/rebecafloriano/simple-card-sync) | Gerador de cartão de visita digital com customização e exportação instantânea |
-| [user-directory](https://github.com/rebecafloriano/user-directory) | Aplicação para gestão centralizada de nomes, e-mails e papéis de equipe |
-| [appointments](https://github.com/rebecafloriano/appointments) | Sistema de agendamentos |
+| [form-newsletter](https://github.com/rebecafloriano/form-newsletter) | Newsletter subscription form built with React, TypeScript, and Tailwind CSS. Suite of 20 unit/integration tests (Vitest + React Testing Library) and 15 multi-browser E2E tests (Playwright), with CI/CD pipeline via GitHub Actions |
+| [tasks-app](https://github.com/rebecafloriano/tasks-app) | Task management dashboard built with React and Tailwind CSS, with full CRUD and persistence via LocalStorage |
+| [simple-card-sync](https://github.com/rebecafloriano/simple-card-sync) | Digital business card generator with customization and instant export |
+| [user-directory](https://github.com/rebecafloriano/user-directory) | Application for centralized management of names, emails, and team roles |
+| [appointments](https://github.com/rebecafloriano/appointments) | Appointment scheduling system |
 
-## Contato
+## Contact
 
 - Website: [rebecadev.com](https://www.rebecadev.com)
 - LinkedIn: [in/rebeca-erdman-dev](https://linkedin.com/in/rebeca-erdman-dev)
